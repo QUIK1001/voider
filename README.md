@@ -49,4 +49,6 @@ g++ voider.cpp -o voider //for linux
 
 x86_64-w64-mingw32-g++ -static -o voider.exe voider.cpp -std=c++11 //for windows
 ```
-### or see [Releases](https://github.com/QUIK1001/voider/releases)
+### or see [Releases](https://github.com/QUIK1001/voider/releases) 
+***(Linux and Windows (tested using Wine on Linux!) versions)***
+
