@@ -3,7 +3,7 @@ by quik // unlicense
 
 just project on c++.
 
-What can he do?
+### What can he do?
     main options:
         -u, --uppercase     - convert to UPPERCASE
         -l, --lowercase     - convert to lowercase
